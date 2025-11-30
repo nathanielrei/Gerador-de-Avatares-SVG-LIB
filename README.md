@@ -52,7 +52,7 @@ Isso criará um avatar como um arquivo Saida.svg e no console.
 
 ## 📚 Sobre o projeto
 
-Este gerador foi desenvolvido como parte da A3 da disciplina de Computação Gráfica (UAG), utilizando conceitos de composição de imagens vetoriais e geração pseudo-aleatória baseada em strings.
+Este gerador foi desenvolvido como parte da A3 da disciplina de Computação Gráfica, utilizando conceitos de composição de imagens vetoriais e geração pseudo-aleatória baseada em strings de chaves hash.
 
 ## integrantes:
 
